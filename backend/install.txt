@@ -1,0 +1,8 @@
+npm i express mysql nodemon
+
+
+we use axios to fetch api's for this project
+npm i axios
+
+We use cors to allow the frontend to access the backend api's
+npm i cors
